@@ -1034,6 +1034,6 @@ F:\Proyectos\BlazorTasker\obj\Debug\net8.0\ref\BlazorTasker.dll
 F:\Proyectos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.sourcelink.json
 F:\Proyectos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 F:\Proyectos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
-F:\Proyectos\BlazorTasker\obj\Debug\net8.0\compressed\bpshtv4pbu-rlldqedajz.gz
-F:\Proyectos\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-qzc575koic.gz
-F:\Proyectos\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-xefni4zzz6.gz
+F:\Proyectos\BlazorTasker\obj\Debug\net8.0\compressed\bpshtv4pbu-fnzhxo6dae.gz
+F:\Proyectos\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-2bihpfnde5.gz
+F:\Proyectos\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-nleuj0be9p.gz
